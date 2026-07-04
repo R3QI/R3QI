@@ -16,7 +16,7 @@
 
 **📫 How to reach me mariuszsasin123@gmail.com**
 
-- ⚡ One more thing about me: I really love going to the gym.
+⚡ One more thing about me: I really love going to the gym.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
