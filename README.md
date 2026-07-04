@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mariusz</h1>
 <h3 align="center">I’m currently learning IT infrastructure and system administration. I am focused on Windows and Linux Server, Active Directory, Bash and Powershell scripting, and networking fundamentals through home labs and hands-on practice. I am currently building my first IT projects in a virtual environment (VirtualBox).</h3>
-
-- 🔭 Currently working on: **- Active Directory domain setup**
-_____________________________
+___________________________________________
+- 🔭 Currently working on:
+- Active Directory domain setup
+___________________________________________
 - 🌱 I’m currently learning: 
 - Active Directory (Windows Server) 
 - Linux system administration (Linux Server) 
@@ -10,8 +11,7 @@ _____________________________
 -Powershell scripting 
 - Networking fundamentals (DNS, DHCP, IP) 
 - Building home lab environments**
-
-
+___________________________________________
 - 📫 How to reach me **mariuszsasin123@gmail.com**
 
 - ⚡ One more thing about me: **I really love going to the gym and to watch a good movie**
