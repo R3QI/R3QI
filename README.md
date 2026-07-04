@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mariusz</h1>
 <h3 align="center">I’m currently learning IT infrastructure and system administration. I am focused on Windows Server, Active Directory, Linux and networking fundamentals through home labs and hands-on practice. I am currently building my first IT projects in a virtual environment (VirtualBox).</h3>
 
-- 🔭 Currently working on: **- Active Directory domain setup**
+- 🔭 Currently working on: **
+- Active Directory domain setup**
 
 - 🌱 I’m currently learning **- Active Directory (Windows Server) - Linux system administration - Networking fundamentals (DNS, DHCP, IP) - Building home lab environments**
 
