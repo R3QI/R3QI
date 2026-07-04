@@ -14,7 +14,7 @@
 - Networking fundamentals (DNS, DHCP, IP) 
 - Building home lab environments
 
-- 📫 How to reach me **mariuszsasin123@gmail.com**
+**📫 How to reach me mariuszsasin123@gmail.com**
 
 - ⚡ One more thing about me: I really love going to the gym.
 
