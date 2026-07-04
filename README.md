@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariusz</h1>
-<h3 align="center">I’m currently learning IT infrastructure and system administration. I am focused on Windows and Linux Server, Active Directory, Bash and Powershell scripting, and networking fundamentals through home labs and hands-on practice. I am currently building my first IT projects in a virtual environment (VirtualBox).</h3>
+<h3 align="center">I’m currently learning IT infrastructure and system administration, focusing on Windows Server, Linux, Active Directory, Bash, PowerShell, and networking through hands-on home labs using VirtualBox.</h3>
 
 
 **🔭 Currently working on:**
