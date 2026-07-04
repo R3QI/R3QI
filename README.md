@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariusz</h1>
-<h3 align="center">I’m currently learning IT infrastructure and system administration. I am focused on Windows Server, Active Directory, Linux and networking fundamentals through home labs and hands-on practice. I am currently building my first IT projects in a virtual environment (VirtualBox).</h3>
+<h3 align="center">I’m currently learning IT infrastructure and system administration. I am focused on Windows and Linux Server, Active Directory,and networking fundamentals through home labs and hands-on practice. I am currently building my first IT projects in a virtual environment (VirtualBox).</h3>
 
 - 🔭 Currently working on: **- Active Directory domain setup**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mariusz sasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariusz sasin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1BahaPmtLa/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariusz sasin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
