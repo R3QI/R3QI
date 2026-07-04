@@ -3,7 +3,11 @@
 
 - 🔭 Currently working on: **- Active Directory domain setup**
 
-- 🌱 I’m currently learning **- Active Directory (Windows Server) - Linux system administration (Linux Server) -Bash Scripting -Powershell scripting - Networking fundamentals (DNS, DHCP, IP) - Building home lab environments**
+- 🌱 I’m currently learning **- Active Directory (Windows Server) 
+- Linux system administration (Linux Server) 
+-Bash Scripting -Powershell scripting 
+- Networking fundamentals (DNS, DHCP, IP) 
+- Building home lab environments**
 
 
 - 📫 How to reach me **mariuszsasin123@gmail.com**
