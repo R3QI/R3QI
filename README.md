@@ -4,7 +4,7 @@
 - 🔭 Currently working on:
 - Active Directory domain setup
 
-- 🌱 I’m currently learning: 
+- **📖 Currently learning:** 
 - Active Directory (Windows Server) 
 - Linux system administration (Linux Server) 
 - Bash Scripting 
