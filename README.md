@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **- Active Directory (Windows Server) - Linux system administration - Networking fundamentals (DNS, DHCP, IP) - Building home lab environments**
 
-- 💬 Ask me about **-Active Directory**
 
 - 📫 How to reach me **mariuszsasin123@gmail.com**
 
