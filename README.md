@@ -4,7 +4,7 @@
 - 🔭 Currently working on:
 - Active Directory domain setup
 
-- **🌱 I’m currently learning**: 
+- 🌱 I’m currently learning: 
 - Active Directory (Windows Server) 
 - Linux system administration (Linux Server) 
 - Bash Scripting 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mariuszsasin123@gmail.com**
 
-- ⚡ One more thing about me: **I really love going to the gym and to watch a good movie**
+- ⚡ One more thing about me: I really love going to the gym.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
