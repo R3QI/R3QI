@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning: 
 - Active Directory (Windows Server) 
 - Linux system administration (Linux Server) 
--Bash Scripting 
--Powershell scripting 
+- Bash Scripting 
+- Powershell scripting 
 - Networking fundamentals (DNS, DHCP, IP) 
 - Building home lab environments**
 
