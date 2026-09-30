@@ -15,7 +15,7 @@
 - Building home lab environments
 
 **🏁 Finished projects:**
-- [Active Directory Home Lab](https://github.com/TwojNick/active-directory-home-lab)
+- [Windows Server 2015 Setup](https://github.com/ReQi/Windows-Server-2015-Setup)
 
 **📫 How to reach me mariuszsasin123@gmail.com**
 
