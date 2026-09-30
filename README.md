@@ -15,7 +15,7 @@
 - Building home lab environments
 
 **🏁 Finished projects:**
-- [Windows Server 2015 Setup](https://github.com/ReQi/Windows-Server-2015-Setup)
+- [Windows Server 2015 Setup](https://github.com/R3QI/Windows-Server-2015-Setup)
 
 **📫 How to reach me mariuszsasin123@gmail.com**
 
